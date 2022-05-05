@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.json
+*.ipynb
+.recordings.practice.py
+
